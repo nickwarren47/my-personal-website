@@ -1,0 +1,36 @@
+body {
+    background: aqua;
+    background-size: 500px 700px;
+    opacity: .8;
+    height: 500px;
+    width: 700px;
+}
+
+/* div {
+    width: 700px;
+    height: 500px;
+    background: aqua;
+    opacity: .8;
+} */
+
+.main-heading{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: max-content;
+  font-family: "Josefin-Sans", sans-serif;
+  font-size: 70.6px;
+  font-weight: bold;
+  color: #ba9a45;
+}
+
+.subheading{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: max-content;
+  font-family: "Cardo", sans-serif;
+  font-size: 23.5px;
+  color: #fff;
+  padding-top: 30px;
+}
