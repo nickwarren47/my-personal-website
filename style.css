@@ -1,9 +1,10 @@
-body {
+
+div { 
     background: aqua;
     background-size: 500px 700px;
     opacity: .8;
-    height: 500px;
-    width: 700px;
+    height: 700px;
+    width: 900px;
 }
 
 /* div {
@@ -13,24 +14,14 @@ body {
     opacity: .8;
 } */
 
-.main-heading{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: max-content;
-  font-family: "Josefin-Sans", sans-serif;
-  font-size: 70.6px;
-  font-weight: bold;
-  color: #ba9a45;
+h1{
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    text-decoration: underline;
+    text-decoration-thickness: 5px;
 }
-
-.subheading{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: max-content;
-  font-family: "Cardo", sans-serif;
-  font-size: 23.5px;
-  color: #fff;
-  padding-top: 30px;
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
 }
