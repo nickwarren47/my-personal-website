@@ -1,9 +1,10 @@
 
 header{
     background: papayawhip;
-    height: 14%;
+    height: 25%;
     width: 100%;
-    margin: 0;
+    margin: 0rem;
+    padding-bottom: 35px;
 }
 #whole{ 
     background: lightseagreen;
@@ -83,16 +84,18 @@ h1{
     font-weight: bold;
     color: black;
     background-color: papayawhip;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 72px;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    font-size: 150px;
     text-decoration: underline;
-    text-decoration-thickness: 5px;
+    text-decoration-thickness: 20px;
 }
 h2{
     font-family: 'Times New Roman', Times, serif;
     font-size: x-large;
 }
-
+#hello{
+    font-size: 30px;
+}
 nav a {
     padding-left: 30px;
     padding-right: 30px;
@@ -106,7 +109,9 @@ header,
 figure {
     text-align: center;
 }
-
+head{
+    height: 10px;
+}
 #details {
     display: flex;
     justify-content: center;
