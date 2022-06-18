@@ -1,19 +1,59 @@
 
-div { 
+div{ 
     background: aqua;
     background-size: 500px 700px;
-    opacity: .8;
     height: 700px;
-    width: 900px;
+    width: 100%;
 }
 
-/* div {
-    width: 700px;
-    height: 500px;
-    background: aqua;
-    opacity: .8;
-} */
+#arches{
+    max-height: 500px;
+    max-width: 400px;
+    width: 245px;
+    height: 190px;
+}
+#mandy{
+    max-height: 500px;
+    max-width: 400px;
+    width: 245px;
+    height: 190px;
+}
+#wood{
+    max-height: 500px;
+    max-width: 400px;
+    width: 245px;
+    height: 190px;
+}
+#puppy{
+    max-height: 500px;
+    max-width: 400px;
+    width: 245px;
+    height: 190px;
+}
+#bike{
+    max-height: 500px;
+    max-width: 400px;
+    width: 245px;
+    height: 190px;
+}
+#mandy2{
+    max-height: 500px;
+    max-width: 400px;
+    width: 255px;
+    height: 190px
+}
 
+#Hobbies{
+    float: right;
+    margin: 10px;
+}
+
+#scuba{
+    max-height: 300px;
+    max-width: 500px;
+    width: 300px;
+    height: 500px; 
+}
 h1{
     background-color: white;
     font-family: 'Times New Roman', Times, serif;
@@ -24,4 +64,15 @@ h1{
 h2{
     font-family: 'Times New Roman', Times, serif;
     font-size: x-large;
+}
+
+nav a {
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: silver;
+}
+head,
+header, 
+figure {
+    text-align: center;
 }
