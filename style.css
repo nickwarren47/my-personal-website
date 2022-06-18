@@ -5,10 +5,10 @@ header{
     width: 100%;
     margin: 0;
 }
-div{ 
+#mainBody{ 
     background: cadetblue;
     background-size: 500px 700px;
-    height: 1200px;
+    height: 1250px;
     width: 100%;
 }
 
@@ -18,7 +18,7 @@ div{
     width: 245px;
     height: 190px;
 }
-#mandy{
+#scuba1{
     max-height: 500px;
     max-width: 400px;
     width: 245px;
@@ -30,7 +30,7 @@ div{
     width: 245px;
     height: 190px;
 }
-#puppy{
+#work{
     max-height: 500px;
     max-width: 400px;
     width: 245px;
@@ -110,7 +110,7 @@ figure {
     display: flex;
     justify-content: center;
     flex-direction: row;
-    gap: 100px;
+    gap: 200px;
     height: 25%;
     background-color: papayawhip;
     text-align: center;
