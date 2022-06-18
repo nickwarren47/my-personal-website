@@ -1,0 +1,50 @@
+h1{
+    font-weight: bold;
+    color: black;
+    background-color: papayawhip;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 72px;
+    text-decoration: underline;
+    text-decoration-thickness: 5px;
+}
+body{
+    background: lightseagreen;
+    background-size: 500px 700px;
+    height: 1250px;
+    width: 100%;
+}
+
+#graduation{
+    max-height: 500px;
+    max-width: 400px;
+    width: 245px;
+    height: 300px;
+}
+#honors{
+    max-height: 500px;
+    max-width: 400px;
+    width: 245px;
+    height: 300px;
+}
+#superfund{
+    max-height: 500px;
+    max-width: 400px;
+    width: 245px;
+    height: 300px;
+}
+#geophysics{
+    max-height: 500px;
+    max-width: 400px;
+    width: 245px;
+    height: 300px;
+}
+#details {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 400px;
+    height: 25%;
+    background-color: papayawhip;
+    text-align: center;
+  }
+
