@@ -24,12 +24,7 @@ h1{
     font-weight: 700;
     color: black;
 }
-#surtek{
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 22px; 
-    font-weight: 700;
-    color: black;
-}
+
 h3{
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px; 
@@ -55,5 +50,12 @@ nav a {
     height: 25%;
     background-color: papayawhip;
     text-align: center;
+  }
+  body{
+        background: lightseagreen;
+        background-size: 500px 700px;
+        height: 1250px;
+        width: 100%;
+    }
   }
 
