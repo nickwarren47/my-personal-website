@@ -8,7 +8,7 @@ header{
 div{ 
     background: cadetblue;
     background-size: 500px 700px;
-    height: 1500px;
+    height: 1200px;
     width: 100%;
 }
 
@@ -105,3 +105,13 @@ header,
 figure {
     text-align: center;
 }
+
+#details {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 100px;
+    height: 25%;
+    background-color: papayawhip;
+    text-align: center;
+  }
