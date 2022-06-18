@@ -1,0 +1,59 @@
+h1{
+    font-weight: bold;
+    color: black;
+    background-color: papayawhip;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 72px;
+    text-decoration: underline;
+    text-decoration-thickness: 5px;
+}
+#intro{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px; 
+    font-weight: 100;
+}
+#intro2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px; 
+    font-weight: 100;
+}
+#resume{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px; 
+    text-decoration: underline;
+    font-weight: 700;
+    color: black;
+}
+#surtek{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px; 
+    font-weight: 700;
+    color: black;
+}
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px; 
+    font-weight: 100;
+    color: black; 
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px; 
+    font-weight: 100;
+    color: black; 
+}
+nav a {
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: silver;
+}
+#details {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 400px;
+    height: 25%;
+    background-color: papayawhip;
+    text-align: center;
+  }
+

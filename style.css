@@ -1,12 +1,12 @@
 
 header{
     background: papayawhip;
-    height: 100%;
+    height: 14%;
     width: 100%;
     margin: 0;
 }
-#mainBody{ 
-    background: cadetblue;
+#whole{ 
+    background: lightseagreen;
     background-size: 500px 700px;
     height: 1250px;
     width: 100%;
@@ -92,9 +92,7 @@ h2{
     font-family: 'Times New Roman', Times, serif;
     font-size: x-large;
 }
-figcaption{
-    font-size: x-small;
-}
+
 nav a {
     padding-left: 30px;
     padding-right: 30px;
