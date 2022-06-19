@@ -13,6 +13,12 @@ body{
     height: 1250px;
     width: 100%;
 }
+#business{
+    max-height: 500px;
+    max-width: 400px;
+    width: 245px;
+    height: 300px; 
+}
 
 #graduation{
     max-height: 500px;
@@ -32,11 +38,23 @@ body{
     width: 245px;
     height: 300px;
 }
+#thesis{
+    max-height: 500px;
+    max-width: 400px;
+    width: 245px;
+    height: 300px;
+}
 #geophysics{
     max-height: 500px;
     max-width: 400px;
     width: 245px;
     height: 300px;
+}
+
+  nav a {
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: silver;
 }
 #details {
     display: flex;
@@ -46,5 +64,6 @@ body{
     height: 25%;
     background-color: papayawhip;
     text-align: center;
+    height: 25px;
   }
 
