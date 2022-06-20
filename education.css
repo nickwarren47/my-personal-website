@@ -66,4 +66,8 @@ body{
     text-align: center;
     height: 25px;
   }
+  iframe{
+    width: 900px;
+    height: 1000px;
+  }
 
